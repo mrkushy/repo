@@ -1,0 +1,10 @@
+Package: https://github.com/mrkushy/repo
+                                     Name: Neon XenHTML widget
+                                     Version: 1.0
+                                     Architecture: iphoneos-arm
+                                     Description: Small Desc. about your app.
+                                     Homepage: Your Website
+                                     Maintainer: MrKuhsy
+                                     Author: MrKushy
+                                     Sponsor: yourmom
+                                     Section: System
